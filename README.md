@@ -6,6 +6,10 @@ This is a basic app that has a certain set of "TRUE" & "FALSE" questions which t
 __The complete app is made in Flutter.__
 
 You can try the app by downloading the .apk file from the link given below.
+ > https://mega.nz/folder/IUs1xIzR#q8VqNHMeYI-lU3x0Aoggvw
+
+IOS Simulator bundle can be downloaded from below link:
+ > https://mega.nz/folder/lU1gkBBD#inxeuhoGPrlQ_Fru7gkiKQ
 
 
 
